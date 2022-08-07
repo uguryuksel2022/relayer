@@ -1,4 +1,4 @@
-{.
+{
   "src": {
     "chain-id": "STRIDE-TESTNET-2",
     "client-id": "07-tendermint-0",
